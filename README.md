@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsyhahaha&count_private=true&show_icons=true&theme=vue-dark&repo=Giws)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsyhahaha&count_private=true&show_icons=true&theme=buefy&repo=Giws&hide=commits)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=tsyhahaha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
